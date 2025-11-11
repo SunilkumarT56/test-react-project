@@ -1,0 +1,506 @@
+{
+  "library": [
+    {
+      "slug": "tree-pose",
+      "name": "Tree Pose (Vrksāsana)",
+      "difficulty": "beginner",
+      "thumbnail": "https://cdn.yogajournal.com/wp-content/uploads/2022/01/Tree-Pose_Alt-1_2400x1350_Andrew-Clark.jpeg",
+      "targetAngles": {
+        "left_shoulder_angle": 50,
+        "right_shoulder_angle": 50,
+        "left_elbow_angle": 170,
+        "right_elbow_angle": 170,
+        "left_hip_angle": 180,
+        "right_hip_angle": 170,
+        "left_knee_angle": 175,
+        "right_knee_angle": 15
+      },
+      "tolerances": {
+        "left_shoulder_angle": 35,
+        "right_shoulder_angle": 35,
+        "left_elbow_angle": 30,
+        "right_elbow_angle": 30,
+        "left_hip_angle": 30,
+        "right_hip_angle": 35,
+        "left_knee_angle": 25,
+        "right_knee_angle": 40
+      },
+      "weights": {
+        "left_shoulder_angle": 1,
+        "right_shoulder_angle": 1,
+        "left_elbow_angle": 1,
+        "right_elbow_angle": 1,
+        "left_hip_angle": 1,
+        "right_hip_angle": 1,
+        "left_knee_angle": 1,
+        "right_knee_angle": 1
+      },
+      "criticalJoints": ["left_hip", "right_hip", "left_knee", "right_knee", "left_shoulder", "right_shoulder"],
+      "short": "Stand on one leg with the other foot placed on the inner thigh. Hands overhead or at heart center.",
+      "steps": [
+        "Stand tall with feet together",
+        "Shift weight to one leg, bend the other knee",
+        "Place foot on inner thigh (avoid knee)",
+        "Bring hands to heart center or raise overhead",
+        "Hold steady, focusing on a point ahead"
+      ],
+      "tips": ["Keep standing leg strong", "Engage core for balance", "Avoid leaning to one side"],
+      "hold_seconds": 30
+    },
+    {
+      "slug": "warrior-ii",
+      "name": "Warrior II (Virabhadrāsana II)",
+      "difficulty": "intermediate",
+      "thumbnail": "https://cdn.yogajournal.com/wp-content/uploads/2021/12/Warrior-2-Pose_Andrew-Clark_2400x1350.jpeg",
+      "targetAngles": {
+        "left_shoulder_angle": 90,
+        "right_shoulder_angle": 90,
+        "left_elbow_angle": 170,
+        "right_elbow_angle": 170,
+        "left_hip_angle": 120,
+        "right_hip_angle": 170,
+        "left_knee_angle": 90,
+        "right_knee_angle": 175
+      },
+      "tolerances": {
+        "left_shoulder_angle": 25,
+        "right_shoulder_angle": 25,
+        "left_elbow_angle": 30,
+        "right_elbow_angle": 30,
+        "left_hip_angle": 30,
+        "right_hip_angle": 40,
+        "left_knee_angle": 25,
+        "right_knee_angle": 35
+      },
+      "weights": {
+        "left_shoulder_angle": 1.2,
+        "right_shoulder_angle": 1.2,
+        "left_elbow_angle": 1,
+        "right_elbow_angle": 1,
+        "left_hip_angle": 1,
+        "right_hip_angle": 1,
+        "left_knee_angle": 1.4,
+        "right_knee_angle": 1
+      },
+      "criticalJoints": ["left_hip", "left_knee", "left_shoulder", "right_shoulder"],
+      "short": "Strong lunge with arms extended parallel to floor, hips open to the side.",
+      "steps": [
+        "Step one foot back 3–4 feet",
+        "Turn back foot 90°, front foot forward",
+        "Bend front knee to 90°, knee over ankle",
+        "Extend arms parallel to floor",
+        "Gaze over front hand, keep torso upright"
+      ],
+      "tips": ["Front knee shouldn't pass toes", "Keep torso upright", "Press through outer edge of back foot"],
+      "hold_seconds": 30
+    },
+    {
+      "slug": "downward-dog",
+      "name": "Downward-Facing Dog (Adho Mukha Śvānāsana)",
+      "difficulty": "beginner",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/Downward-Facing-Dog.JPG",
+      "targetAngles": {
+        "left_shoulder_angle": 50,
+        "right_shoulder_angle": 50,
+        "left_elbow_angle": 170,
+        "right_elbow_angle": 170,
+        "left_hip_angle": 90,
+        "right_hip_angle": 90,
+        "left_knee_angle": 170,
+        "right_knee_angle": 170
+      },
+      "tolerances": {
+        "left_shoulder_angle": 35,
+        "right_shoulder_angle": 35,
+        "left_elbow_angle": 30,
+        "right_elbow_angle": 30,
+        "left_hip_angle": 40,
+        "right_hip_angle": 40,
+        "left_knee_angle": 30,
+        "right_knee_angle": 30
+      },
+      "weights": {
+        "left_shoulder_angle": 1.3,
+        "right_shoulder_angle": 1.3,
+        "left_elbow_angle": 1,
+        "right_elbow_angle": 1,
+        "left_hip_angle": 1.4,
+        "right_hip_angle": 1.4,
+        "left_knee_angle": 1,
+        "right_knee_angle": 1
+      },
+      "criticalJoints": ["left_hip", "right_hip", "left_shoulder", "right_shoulder"],
+      "short": "Form an inverted V-shape with hips high and spine long.",
+      "steps": [
+        "Start on hands and knees",
+        "Tuck toes, lift hips up and back",
+        "Straighten legs as much as comfortable",
+        "Press palms firmly into ground",
+        "Let head hang naturally between arms"
+      ],
+      "tips": ["Bend knees if hamstrings are tight", "Spread fingers wide", "Push hips back, not down"],
+      "hold_seconds": 30
+    },
+    {
+      "slug": "triangle-pose",
+      "name": "Triangle Pose (Trikonāsana)",
+      "difficulty": "intermediate",
+      "thumbnail": "https://cdn.yogajournal.com/wp-content/uploads/2021/12/Triangle-Pose_Andrew-Clark_2400x1350.jpeg",
+      "targetAngles": {
+        "left_shoulder_angle": 170,
+        "right_shoulder_angle": 90,
+        "left_elbow_angle": 175,
+        "right_elbow_angle": 175,
+        "left_hip_angle": 160,
+        "right_hip_angle": 170,
+        "left_knee_angle": 175,
+        "right_knee_angle": 175
+      },
+      "tolerances": {
+        "left_shoulder_angle": 30,
+        "right_shoulder_angle": 25,
+        "left_elbow_angle": 25,
+        "right_elbow_angle": 25,
+        "left_hip_angle": 30,
+        "right_hip_angle": 35,
+        "left_knee_angle": 25,
+        "right_knee_angle": 25
+      },
+      "weights": {
+        "left_shoulder_angle": 1.2,
+        "right_shoulder_angle": 1.2,
+        "left_elbow_angle": 1,
+        "right_elbow_angle": 1,
+        "left_hip_angle": 1.1,
+        "right_hip_angle": 1,
+        "left_knee_angle": 1.3,
+        "right_knee_angle": 1.3
+      },
+      "criticalJoints": ["left_hip", "right_hip", "left_knee", "right_knee", "left_shoulder", "right_shoulder"],
+      "short": "Wide-legged stance with one arm reaching down and the other up, forming a triangle.",
+      "steps": [
+        "Stand with feet wide apart",
+        "Turn one foot out 90°, other slightly in",
+        "Reach forward with front arm, then lower to shin/floor",
+        "Extend other arm straight up",
+        "Gaze up at top hand or forward"
+      ],
+      "tips": ["Keep both legs straight", "Don't collapse into front hip", "Stack shoulders vertically"],
+      "hold_seconds": 30
+    },
+    {
+      "slug": "chair-pose",
+      "name": "Chair Pose (Utkatāsana)",
+      "difficulty": "beginner",
+      "thumbnail": "https://cdn.yogajournal.com/wp-content/uploads/2021/05/Chair-Pose_Andrew-Clark.jpg",
+      "targetAngles": {
+        "left_shoulder_angle": 50,
+        "right_shoulder_angle": 50,
+        "left_elbow_angle": 170,
+        "right_elbow_angle": 170,
+        "left_hip_angle": 90,
+        "right_hip_angle": 90,
+        "left_knee_angle": 90,
+        "right_knee_angle": 90
+      },
+      "tolerances": {
+        "left_shoulder_angle": 35,
+        "right_shoulder_angle": 35,
+        "left_elbow_angle": 30,
+        "right_elbow_angle": 30,
+        "left_hip_angle": 35,
+        "right_hip_angle": 35,
+        "left_knee_angle": 30,
+        "right_knee_angle": 30
+      },
+      "weights": {
+        "left_shoulder_angle": 1,
+        "right_shoulder_angle": 1,
+        "left_elbow_angle": 1,
+        "right_elbow_angle": 1,
+        "left_hip_angle": 1.3,
+        "right_hip_angle": 1.3,
+        "left_knee_angle": 1.4,
+        "right_knee_angle": 1.4
+      },
+      "criticalJoints": ["left_hip", "right_hip", "left_knee", "right_knee"],
+      "short": "Squat position with arms raised overhead, as if sitting in an invisible chair.",
+      "steps": [
+        "Stand with feet together",
+        "Bend knees and lower hips as if sitting",
+        "Raise arms overhead",
+        "Keep weight in heels",
+        "Draw belly in, chest lifted"
+      ],
+      "tips": ["Knees track over toes", "Keep chest lifted", "Engage core"],
+      "hold_seconds": 30
+    },
+    {
+      "slug": "warrior-i",
+      "name": "Warrior I (Virabhadrāsana I)",
+      "difficulty": "intermediate",
+      "thumbnail": "https://cdn.yogajournal.com/wp-content/uploads/2021/05/Warrior-I-Pose_Andrew-Clark.jpg",
+      "targetAngles": {
+        "left_shoulder_angle": 50,
+        "right_shoulder_angle": 50,
+        "left_elbow_angle": 170,
+        "right_elbow_angle": 170,
+        "left_hip_angle": 90,
+        "right_hip_angle": 170,
+        "left_knee_angle": 90,
+        "right_knee_angle": 175
+      },
+      "tolerances": {
+        "left_shoulder_angle": 30,
+        "right_shoulder_angle": 30,
+        "left_elbow_angle": 30,
+        "right_elbow_angle": 30,
+        "left_hip_angle": 35,
+        "right_hip_angle": 40,
+        "left_knee_angle": 25,
+        "right_knee_angle": 35
+      },
+      "weights": {
+        "left_shoulder_angle": 1.1,
+        "right_shoulder_angle": 1.1,
+        "left_elbow_angle": 1,
+        "right_elbow_angle": 1,
+        "left_hip_angle": 1.2,
+        "right_hip_angle": 1,
+        "left_knee_angle": 1.4,
+        "right_knee_angle": 1
+      },
+      "criticalJoints": ["left_hip", "left_knee", "left_shoulder", "right_shoulder"],
+      "short": "Strong lunge with arms raised overhead, hips squared forward.",
+      "steps": [
+        "Step one foot back 3–4 feet",
+        "Turn back foot slightly in",
+        "Bend front knee to 90°",
+        "Square hips forward",
+        "Raise arms overhead, palms together"
+      ],
+      "tips": ["Front knee over ankle", "Square hips as much as possible", "Lift through chest"],
+      "hold_seconds": 30
+    },
+    {
+      "slug": "cobra-pose",
+      "name": "Cobra Pose (Bhujangāsana)",
+      "difficulty": "beginner",
+      "thumbnail": "https://cdn.yogajournal.com/wp-content/uploads/2021/12/Cobra-Pose_Andrew-Clark_2400x1350.jpeg",
+      "targetAngles": {
+        "left_shoulder_angle": 120,
+        "right_shoulder_angle": 120,
+        "left_elbow_angle": 130,
+        "right_elbow_angle": 130,
+        "left_hip_angle": 170,
+        "right_hip_angle": 170,
+        "left_knee_angle": 175,
+        "right_knee_angle": 175
+      },
+      "tolerances": {
+        "left_shoulder_angle": 35,
+        "right_shoulder_angle": 35,
+        "left_elbow_angle": 40,
+        "right_elbow_angle": 40,
+        "left_hip_angle": 30,
+        "right_hip_angle": 30,
+        "left_knee_angle": 25,
+        "right_knee_angle": 25
+      },
+      "weights": {
+        "left_shoulder_angle": 1.2,
+        "right_shoulder_angle": 1.2,
+        "left_elbow_angle": 1.1,
+        "right_elbow_angle": 1.1,
+        "left_hip_angle": 1.3,
+        "right_hip_angle": 1.3,
+        "left_knee_angle": 1,
+        "right_knee_angle": 1
+      },
+      "criticalJoints": ["left_shoulder", "right_shoulder", "left_hip", "right_hip"],
+      "short": "Gentle backbend lying face-down, lifting chest with arm support.",
+      "steps": [
+        "Lie face-down, legs extended",
+        "Place hands under shoulders",
+        "Press palms, lift chest off floor",
+        "Keep elbows close to body",
+        "Gaze slightly forward"
+      ],
+      "tips": ["Keep shoulders away from ears", "Engage legs", "Don't overarch lower back"],
+      "hold_seconds": 30
+    },
+    {
+      "slug": "child-pose",
+      "name": "Child's Pose (Bālāsana)",
+      "difficulty": "beginner",
+      "thumbnail": "https://cdn.yogajournal.com/wp-content/uploads/2021/11/Childs-Pose_Andrew-Clark_2400x1350.jpeg",
+      "targetAngles": {
+        "left_shoulder_angle": 50,
+        "right_shoulder_angle": 50,
+        "left_elbow_angle": 170,
+        "right_elbow_angle": 170,
+        "left_hip_angle": 45,
+        "right_hip_angle": 45,
+        "left_knee_angle": 45,
+        "right_knee_angle": 45
+      },
+      "tolerances": {
+        "left_shoulder_angle": 40,
+        "right_shoulder_angle": 40,
+        "left_elbow_angle": 35,
+        "right_elbow_angle": 35,
+        "left_hip_angle": 40,
+        "right_hip_angle": 40,
+        "left_knee_angle": 40,
+        "right_knee_angle": 40
+      },
+      "weights": {
+        "left_shoulder_angle": 1,
+        "right_shoulder_angle": 1,
+        "left_elbow_angle": 1,
+        "right_elbow_angle": 1,
+        "left_hip_angle": 1.2,
+        "right_hip_angle": 1.2,
+        "left_knee_angle": 1.2,
+        "right_knee_angle": 1.2
+      },
+      "criticalJoints": ["left_hip", "right_hip", "left_knee", "right_knee"],
+      "short": "Resting pose kneeling with torso folded forward, forehead to floor.",
+      "steps": [
+        "Kneel on floor, sit on heels",
+        "Fold forward, bringing forehead to floor",
+        "Extend arms forward or alongside body",
+        "Relax shoulders and neck",
+        "Breathe deeply"
+      ],
+      "tips": ["Use cushion under forehead if needed", "Knees can be together or apart", "Focus on relaxation"],
+      "hold_seconds": 30
+    },
+    {
+      "slug": "plank-pose",
+      "name": "Plank Pose (Phalakāsana)",
+      "difficulty": "intermediate",
+      "thumbnail": "https://cdn.yogajournal.com/wp-content/uploads/2021/05/Plank-Pose_Andrew-Clark.jpg",
+      "targetAngles": {
+        "left_shoulder_angle": 90,
+        "right_shoulder_angle": 90,
+        "left_elbow_angle": 175,
+        "right_elbow_angle": 175,
+        "left_hip_angle": 175,
+        "right_hip_angle": 175,
+        "left_knee_angle": 175,
+        "right_knee_angle": 175
+      },
+      "tolerances": {
+        "left_shoulder_angle": 25,
+        "right_shoulder_angle": 25,
+        "left_elbow_angle": 25,
+        "right_elbow_angle": 25,
+        "left_hip_angle": 30,
+        "right_hip_angle": 30,
+        "left_knee_angle": 25,
+        "right_knee_angle": 25
+      },
+      "weights": {
+        "left_shoulder_angle": 1.2,
+        "right_shoulder_angle": 1.2,
+        "left_elbow_angle": 1.1,
+        "right_elbow_angle": 1.1,
+        "left_hip_angle": 1.4,
+        "right_hip_angle": 1.4,
+        "left_knee_angle": 1.1,
+        "right_knee_angle": 1.1
+      },
+      "criticalJoints": ["left_shoulder", "right_shoulder", "left_hip", "right_hip"],
+      "short": "Straight-body hold in push-up position, engaging core and legs.",
+      "steps": [
+        "Start in push-up position",
+        "Keep body in straight line from head to heels",
+        "Engage core, squeeze glutes",
+        "Press firmly through palms",
+        "Gaze down, neck neutral"
+      ],
+      "tips": ["Don't let hips sag or pike up", "Engage entire body", "Breathe steadily"],
+      "hold_seconds": 30
+    },
+    {
+      "slug": "bridge-pose",
+      "name": "Bridge Pose (Setu Bandha Sarvāṅgāsana)",
+      "difficulty": "beginner",
+      "thumbnail": "https://cdn.yogajournal.com/wp-content/uploads/2021/11/Bridge-Pose_Andrew-Clark_2400x1350.jpeg",
+      "targetAngles": {
+        "left_shoulder_angle": 90,
+        "right_shoulder_angle": 90,
+        "left_elbow_angle": 175,
+        "right_elbow_angle": 175,
+        "left_hip_angle": 120,
+        "right_hip_angle": 120,
+        "left_knee_angle": 90,
+        "right_knee_angle": 90
+      },
+      "tolerances": {
+        "left_shoulder_angle": 30,
+        "right_shoulder_angle": 30,
+        "left_elbow_angle": 25,
+        "right_elbow_angle": 25,
+        "left_hip_angle": 35,
+        "right_hip_angle": 35,
+        "left_knee_angle": 30,
+        "right_knee_angle": 30
+      },
+      "weights": {
+        "left_shoulder_angle": 1,
+        "right_shoulder_angle": 1,
+        "left_elbow_angle": 1,
+        "right_elbow_angle": 1,
+        "left_hip_angle": 1.4,
+        "right_hip_angle": 1.4,
+        "left_knee_angle": 1.2,
+        "right_knee_angle": 1.2
+      },
+      "criticalJoints": ["left_hip", "right_hip", "left_knee", "right_knee"],
+      "short": "Lying backbend with hips lifted, shoulders grounded.",
+      "steps": [
+        "Lie on back, knees bent, feet hip-width",
+        "Press feet and lift hips up",
+        "Clasp hands under back (optional)",
+        "Keep knees over ankles",
+        "Hold and breathe"
+      ],
+      "tips": ["Keep knees tracking forward", "Press firmly through feet", "Engage glutes"],
+      "hold_seconds": 30
+    }
+  ],
+  "challenge": [
+    {
+      "level": 1,
+      "slug": "tree-pose",
+      "name": "Tree Pose (Vrksāsana)",
+      "difficulty": "beginner"
+    },
+    {
+      "level": 2,
+      "slug": "warrior-ii",
+      "name": "Warrior II (Virabhadrāsana II)",
+      "difficulty": "intermediate"
+    },
+    {
+      "level": 3,
+      "slug": "downward-dog",
+      "name": "Downward-Facing Dog (Adho Mukha Śvānāsana)",
+      "difficulty": "intermediate"
+    },
+    {
+      "level": 4,
+      "slug": "triangle-pose",
+      "name": "Triangle Pose (Trikonāsana)",
+      "difficulty": "advanced"
+    },
+    {
+      "level": 5,
+      "slug": "plank-pose",
+      "name": "Plank Pose (Phalakāsana)",
+      "difficulty": "advanced"
+    }
+  ]
+}
